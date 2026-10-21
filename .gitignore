@@ -4,3 +4,4 @@ __pycache__/
 /venv/
 pipeline.txt
 /data
+/test/samples

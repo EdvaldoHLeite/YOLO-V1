@@ -1,4 +1,6 @@
-**/pycache
+__pycache__/
+*.py[cod]
+*$py.class
 /venv/
 pipeline.txt
 /data
